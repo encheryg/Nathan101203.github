@@ -23,7 +23,7 @@ Arcane structures the application
 =================================
 - Scheduling of the application
 
-.. image:: images/test.jpg
+.. image:: test.jpg
        :height: 100
        :width: 200
        :scale: 50
