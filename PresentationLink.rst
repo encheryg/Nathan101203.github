@@ -23,7 +23,7 @@ Arcane structures the application
 =================================
 - Scheduling of the application
 
-.. image:: https://user-images.githubusercontent.com/108274354/176191561-3e65f7a2-5a76-4a00-a47d-de3909b3d763.png
+.. image:: images/https://user-images.githubusercontent.com/108274354/176191561-3e65f7a2-5a76-4a00-a47d-de3909b3d763.png
         :height: 10
         :width: 20
         :scale: 50
