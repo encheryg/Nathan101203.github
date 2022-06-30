@@ -28,6 +28,7 @@ Arcane structures the application
         :width: 200
         :scale: 50
         :align: center
+        :alt:  
        
 ====================================
 Arcane provides "low-level" services
