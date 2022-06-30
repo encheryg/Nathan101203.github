@@ -6,4 +6,4 @@ Quickstart guide
 - `Quick presentation of Arcane plateform`_
 - Training
 
-.. _Quick presentation of Arcane plateform : https://Nathan101203.github.io/PresentationLink.html
+.. _Quick presentation of Arcane plateform : https://Nathan101203.github/PresentationLink.rst
