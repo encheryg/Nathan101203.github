@@ -24,10 +24,10 @@ Arcane structures the application
 - Scheduling of the application
 
 .. image:: test.jpg
-       :height: 100
-       :width: 200
-       :scale: 50
-       :align: center
+        :height: 100
+        :width: 200
+        :scale: 50
+        :align: center
        
 ====================================
 Arcane provides "low-level" services
