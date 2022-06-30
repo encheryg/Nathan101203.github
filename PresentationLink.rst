@@ -27,7 +27,7 @@ Arcane structures the application
         :height: 100
         :width: 200
         :scale: 50
-        :align: center
+        :align: right
         :alt:  
        
 ====================================
